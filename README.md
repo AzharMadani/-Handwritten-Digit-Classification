@@ -25,5 +25,6 @@ For images, there are 3 popular encoding mechanisms
 1. RGB Encoding (Red Green Blue) Encoding
 2. HSV Encoding (Hue Saturation Value) (0 to 255)
 3. BGR Encoding (Blue Green Red) Encoding
+
 In MNIST, the encoding format is HSV
 Scrape the MNIST data from OpenMl -->
